@@ -44,6 +44,7 @@
 
 1. Загрузите все файлы приложения (HTML, CSS, JavaScript).
 2. Откройте HTML-файл в веб-браузере.
+3. Откройте по ссылке **https://altinruslan.github.io/Converter/**
 
 ## Зависимости
 
